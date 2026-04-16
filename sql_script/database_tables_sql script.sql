@@ -13,9 +13,8 @@ Gender varchar(250)
 )
 
 
-
 create table EmployeeSalary
-(EmplooyeeID int,
+(EmployeeID int,
 JobTitle varchar(250),
 Salary int
 )
